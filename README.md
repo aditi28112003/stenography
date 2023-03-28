@@ -5,6 +5,9 @@ This is a stenography program that can be used to hide texts in images, texts an
 ## Login page
 ![Screenshot](login.png)
 
+## Opening 
+![Screenshot](opening.png)
+
 
 ## Home
 
@@ -14,34 +17,34 @@ This is a stenography program that can be used to hide texts in images, texts an
 ## Image
 
 ### Encoding image
-![Screenshot](image steno.png)
+![Screenshot](EncodeImage.png)
 
 ### Decoding image
-![Screenshot](decode.png)
+![Screenshot](DecodeImage.png)
 
 
 ## Text
 
 ### Encoding text
-![Screenshot](text encode.png)
+![Screenshot](TextEncode.png)
 
 ### Decoding text
-![Screenshot](text decode.png)
+![Screenshot](TextDecode.png)
 
 ## Audio
 
 ### Encoding audio
 
-![Screenshot](encode audio.png)
+![Screenshot](EncodeAudio.png)
 
 ### Decoding audio
 
-![Screenshot](decode audio.png)
+![Screenshot](DecodeAudio.png)
 
 
 ## Mail
 
-![Screenshot](send email.png)
+![Screenshot](email.png)
 
 
 
