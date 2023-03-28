@@ -1,45 +1,45 @@
-# stenography
+# Stenography
 
 This is a stenography program that can be used to hide texts in images, texts and audio. It is written in Java.
 
-##Login page
+## Login page
 ![Screenshot](login.png)
 
 
-##Home
+## Home
 
 ![Screenshot](home.png)
 
 
-##Image
+## Image
 
-###Encoding image
+### Encoding image
 ![Screenshot](image steno.png)
 
-###Decoding image
+### Decoding image
 ![Screenshot](decode.png)
 
 
-##Text
+## Text
 
-###Encoding text
+### Encoding text
 ![Screenshot](text encode.png)
 
-###Decoding text
+### Decoding text
 ![Screenshot](text decode.png)
 
-##Audio
+## Audio
 
-###Encoding audio
+### Encoding audio
 
 ![Screenshot](encode audio.png)
 
-###Decoding audio
+### Decoding audio
 
 ![Screenshot](decode audio.png)
 
 
-##Mail
+## Mail
 
 ![Screenshot](send email.png)
 
